@@ -81,3 +81,4 @@ projects/time/
 ├── uninstall.sh    移除全局快捷键
 └── README.md
 ```
+# timetool
